@@ -11,7 +11,7 @@ namespace BeginningXamarin
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new GreetPage();
         }
 
         protected override void OnStart()
